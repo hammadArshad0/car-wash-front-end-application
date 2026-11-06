@@ -278,4 +278,5 @@ ShineBay demonstrates modern frontend development practices through a complete c
 *Explore services. Compare packages. Book with ease.*
 
 #   c a r - w a s h - f r o n t - e n d - a p p l i c a t i o n  
+ #   c a r - w a s h - f r o n t - e n d - a p p l i c a t i o n  
  
