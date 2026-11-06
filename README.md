@@ -277,3 +277,5 @@ ShineBay demonstrates modern frontend development practices through a complete c
 **ShineBay — Car Wash Service & Booking Website**  
 *Explore services. Compare packages. Book with ease.*
 
+#   c a r - w a s h - f r o n t - e n d - a p p l i c a t i o n  
+ 
